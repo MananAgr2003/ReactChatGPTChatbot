@@ -108,7 +108,7 @@ function App() {
         <div style={{  position: 'fixed',
         bottom: '100px',
         right: '20px',
-        zIndex: '999', height: '400px', width: '340px' }}>
+        zIndex: '999', height: '400px', width: '350px' }}>
           <MainContainer>
             <ChatContainer style={{
                 borderRadius:"15px" 
@@ -116,7 +116,7 @@ function App() {
               }}>
               <MessageList
               style={{
-                padding:"5px" ,
+               
                 borderRadius:"15px" 
 
 
