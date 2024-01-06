@@ -1,0 +1,30 @@
+/* Navbar.css */
+.navbar {
+    min-width: 95vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    position: fixed;
+    top: -15px;
+    left: 0;
+  }
+  
+  
+  
+  .menu-options {
+    display: flex;
+    font-weight: 600;
+  }
+  
+  .menu-option {
+    margin-right: 15px;
+    cursor: pointer;
+  }
+  
+  .menu-option:last-child {
+    margin-right: 0;
+  }
+  
